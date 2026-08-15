@@ -68,7 +68,7 @@ Attrition Rate = DIVIDE([Total Leavers], [Average Headcount], 0)
 
 ## 📸 Dashboard Preview
 
-> *(Add a screenshot of the dashboard here — e.g., `screenshot.png`)*
+<img width="1055" height="599" alt="image" src="https://github.com/user-attachments/assets/b4f7810b-cc55-4a09-aee4-f6db228fb895" />
 
 ---
 
