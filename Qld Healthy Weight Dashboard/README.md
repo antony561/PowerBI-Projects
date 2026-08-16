@@ -1,5 +1,7 @@
 # QLD Healthy Weight Dashboard
 
+![Dashboard Overview](assets/overview-preview.png)
+
 A population health analytics dashboard that classifies patient BMI records using CDC (Centers for Disease Control and Prevention) standards — built as both a Python-generated PDF report and a native Power BI dashboard, using the same underlying cleaning and classification logic in both.
 
 ## What This Project Is
@@ -89,21 +91,12 @@ Facility codes (e.g. `PAH`, `TTH`, `GCUH`) were mapped to their full name and Ho
 - Classification rates vary meaningfully by facility, HSS region, and age group — the burden isn't evenly spread.
 - Correct age-based classification (adult vs. child methods) means program design can genuinely differ by age group, rather than relying on a one-size-fits-all cutoff that's clinically incorrect for children.
 
-## Repository Structure
+## More Screenshots
 
-```
-├── scripts/
-│   └── clean_and_classify.py       # Python cleaning + CDC classification pipeline
-├── powerbi/
-│   └── Healthy Weight Dashboard.pbix   # Native Power BI rebuild
-├── reports/
-│   └── Healthy Weight Dashboard.pdf    # Python/matplotlib PDF export
-├── docs/
-│   ├── project-writeup.md          # Full project write-up
-│   ├── powerbi-build-guide.md      # DAX measures + visual build guide
-│   └── powerbi-native-cleaning-guide.md  # Power Query/M cleaning steps
-└── README.md
-```
+| Top 15 Suburbs | Classification by HSS |
+|---|---|
+| ![Top 15 Suburbs](assets/top15-suburbs-preview.png) | ![HSS Breakdown](assets/hss-preview.png) |
+
 
 ## Tools Used
 
