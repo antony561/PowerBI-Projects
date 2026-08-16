@@ -95,9 +95,7 @@ Facility codes (e.g. `PAH`, `TTH`, `GCUH`) were mapped to their full name and Ho
 
 | Top 15 Suburbs | Classification by HSS |
 |---|---|
-| <img width="1227" height="705" alt="image" src="https://github.com/user-attachments/assets/0ce2855c-2ee1-484c-8b01-5a7ffde8cf0c" />
- | <img width="1229" height="706" alt="image" src="https://github.com/user-attachments/assets/76bfd0a5-7d26-48bf-a523-324a0cc6d73f" />
- |
+| <img width="1227" height="705" alt="image" src="https://github.com/user-attachments/assets/0ce2855c-2ee1-484c-8b01-5a7ffde8cf0c" /> | <img width="1229" height="706" alt="image" src="https://github.com/user-attachments/assets/76bfd0a5-7d26-48bf-a523-324a0cc6d73f" /> |
 
 
 ## Tools Used
