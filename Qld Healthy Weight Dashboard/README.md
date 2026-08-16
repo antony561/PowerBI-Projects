@@ -1,6 +1,6 @@
 # QLD Healthy Weight Dashboard
 
-![Dashboard Overview](assets/overview-preview.png)
+<img width="1225" height="706" alt="image" src="https://github.com/user-attachments/assets/69ed71af-9ba2-496f-9900-86cf9c317b6f" />
 
 A population health analytics dashboard that classifies patient BMI records using CDC (Centers for Disease Control and Prevention) standards — built as both a Python-generated PDF report and a native Power BI dashboard, using the same underlying cleaning and classification logic in both.
 
@@ -95,7 +95,9 @@ Facility codes (e.g. `PAH`, `TTH`, `GCUH`) were mapped to their full name and Ho
 
 | Top 15 Suburbs | Classification by HSS |
 |---|---|
-| ![Top 15 Suburbs](assets/top15-suburbs-preview.png) | ![HSS Breakdown](assets/hss-preview.png) |
+| <img width="1227" height="705" alt="image" src="https://github.com/user-attachments/assets/0ce2855c-2ee1-484c-8b01-5a7ffde8cf0c" />
+ | <img width="1229" height="706" alt="image" src="https://github.com/user-attachments/assets/76bfd0a5-7d26-48bf-a523-324a0cc6d73f" />
+ |
 
 
 ## Tools Used
